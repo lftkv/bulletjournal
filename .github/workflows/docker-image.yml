@@ -1,4 +1,4 @@
-name: [DOCKER] Build and Push Image
+name: DOCKER Build and Push Image
 
 on:
   push:
